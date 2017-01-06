@@ -33,6 +33,8 @@ gem 'paperclip', '~> 4.2.0'
 gem 'acts_as_votable', '~> 0.10.0'
 
 gem 'puma'
+
+gem 'aws-sdk', '~> 2.6', '>= 2.6.44'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
